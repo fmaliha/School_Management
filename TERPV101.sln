@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InovexiaEBS", "InovexiaEBS\InovexiaEBS.csproj", "{7C8359A5-543E-45C8-AA53-D435FF846FA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagementReport", "SchoolManagementReport\SchoolManagementReport.csproj", "{9C58D8B9-DBCC-49B9-A1F1-440B21F4857A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C8359A5-543E-45C8-AA53-D435FF846FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8359A5-543E-45C8-AA53-D435FF846FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8359A5-543E-45C8-AA53-D435FF846FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8359A5-543E-45C8-AA53-D435FF846FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C58D8B9-DBCC-49B9-A1F1-440B21F4857A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C58D8B9-DBCC-49B9-A1F1-440B21F4857A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C58D8B9-DBCC-49B9-A1F1-440B21F4857A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C58D8B9-DBCC-49B9-A1F1-440B21F4857A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,313 @@
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.dll.config
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.pdb
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Antlr3.Runtime.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\AspNet.ScriptManager.bootstrap.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\AspNet.ScriptManager.jQuery.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\CkEditor.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\CKEditor.NET.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\EntityFramework.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\EntityFramework.SqlServer.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\ExportToExcel.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\IPLCryptography.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Core.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Cookies.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Facebook.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Google.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.OAuth.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Twitter.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.ScriptManager.WebForms.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Web.Infrastructure.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Newtonsoft.Json.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Owin.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\PBSConnLib.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\System.Web.Optimization.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\System.Web.Providers.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Telerik.Reporting.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Telerik.ReportViewer.WebForms.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.Skins.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\WebGrease.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\System.Web.Optimization.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Telerik.Reporting.pdb
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Telerik.Reporting.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Telerik.ReportViewer.WebForms.pdb
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Telerik.ReportViewer.WebForms.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Antlr3.Runtime.pdb
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Newtonsoft.Json.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\EntityFramework.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\EntityFramework.SqlServer.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Facebook.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Google.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Twitter.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.dll
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.pdb
+F:\PMERP_TFS\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.csprojResolveAssemblyReference.cache
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.dll.config
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.pdb
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Antlr3.Runtime.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\AspNet.ScriptManager.bootstrap.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\AspNet.ScriptManager.jQuery.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\CkEditor.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\CKEditor.NET.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\EntityFramework.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\EntityFramework.SqlServer.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\ExportToExcel.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\IPLCryptography.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Core.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Cookies.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Facebook.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Google.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.OAuth.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Twitter.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.ScriptManager.WebForms.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Web.Infrastructure.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Newtonsoft.Json.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Owin.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\PBSConnLib.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\System.Web.Optimization.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\System.Web.Providers.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.Reporting.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.ReportViewer.WebForms.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.Skins.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\WebGrease.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\System.Web.Optimization.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.Reporting.pdb
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.Reporting.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.ReportViewer.WebForms.pdb
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.ReportViewer.WebForms.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Antlr3.Runtime.pdb
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Newtonsoft.Json.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\EntityFramework.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\EntityFramework.SqlServer.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Facebook.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Google.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Twitter.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.dll
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.pdb
+F:\SchoolManagement\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.csprojResolveAssemblyReference.cache
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.dll.config
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.pdb
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Antlr3.Runtime.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\CkEditor.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\CKEditor.NET.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\EntityFramework.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\EntityFramework.SqlServer.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\ExportToExcel.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\IPLCryptography.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Newtonsoft.Json.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Owin.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\PBSConnLib.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\SchoolManagementReport.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\System.Web.Optimization.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\System.Web.Providers.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.Skins.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\WebGrease.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\SchoolManagementReport.pdb
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\System.Web.Optimization.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Antlr3.Runtime.pdb
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Newtonsoft.Json.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\EntityFramework.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\EntityFramework.SqlServer.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.csprojResolveAssemblyReference.cache
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.pdb
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.csprojResolveAssemblyReference.cache
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.dll.config
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.pdb
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Antlr3.Runtime.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\AspNet.ScriptManager.bootstrap.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\AspNet.ScriptManager.jQuery.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\CkEditor.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\CKEditor.NET.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\EntityFramework.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\EntityFramework.SqlServer.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\ExportToExcel.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\IPLCryptography.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Google.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.ScriptManager.WebForms.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Web.Infrastructure.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Newtonsoft.Json.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Owin.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\PBSConnLib.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\SchoolManagementReport.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\System.Web.Optimization.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\System.Web.Providers.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.Skins.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\WebGrease.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\SchoolManagementReport.pdb
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\System.Web.Optimization.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Antlr3.Runtime.pdb
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Newtonsoft.Json.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\EntityFramework.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\EntityFramework.SqlServer.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Google.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.dll
+D:\workspace\Visual Studio 2013\Projects\SchManagementByMaliha\MalihaFINAL\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.pdb
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.dll.config
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\InovexiaEBS.pdb
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Antlr3.Runtime.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\CkEditor.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\CKEditor.NET.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\EntityFramework.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\EntityFramework.SqlServer.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\ExportToExcel.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\IPLCryptography.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Newtonsoft.Json.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Owin.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\PBSConnLib.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\SchoolManagementReport.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\System.Web.Optimization.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\System.Web.Providers.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.Skins.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\WebGrease.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\System.Web.Optimization.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Telerik.Web.UI.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Antlr3.Runtime.pdb
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Newtonsoft.Json.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\EntityFramework.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\EntityFramework.SqlServer.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.dll
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.pdb
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\obj\Debug\InovexiaEBS.csprojResolveAssemblyReference.cache
+C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MalihaFINAL\MalihaFINAL\MOJT_ERP\InovexiaEBS\bin\SchoolManagementReport.pdb

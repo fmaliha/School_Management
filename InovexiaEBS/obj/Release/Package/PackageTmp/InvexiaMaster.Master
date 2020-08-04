@@ -1,0 +1,438 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="InvexiaMaster.master.cs" Inherits="InovexiaEBS.InvexiaMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ERP | Enterprise Resource Planning</title>
+
+    <style>
+       .fabricc_animate {
+  width: 25px;
+  height: 25px;
+  background-color: inherit;
+  animation-name: spin;
+  animation-duration: 5000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear; 
+  /*transform: rotate(45deg);*/ 
+   /* transform: rotate(0.3rad);/ */
+   /* transform: rotate(3grad); */ 
+   /* transform: rotate(.03turn);  */
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+ 
+#ContentPlaceHolder1_btnSave { 
+    text-transform:uppercase;
+}
+
+#ContentPlaceHolder1_btnList {
+    text-transform:uppercase;
+}
+
+    </style>
+
+
+    <link rel="shortcut icon" href="<%=ResolveUrl("~/img/favicon.ico")%>" />
+
+
+
+    <link href="<%=ResolveUrl("~/css/bootstrap.min.css")%>" rel="stylesheet" type="text/css" />
+
+
+
+    <link href="<%=ResolveUrl("~/css/style.css")%>" rel="stylesheet" type="text/css">
+
+
+    <link href="<%=ResolveUrl("~/plugins/font-awesome/css/font-awesome.min.css")%>" rel="stylesheet" />
+
+
+    <link href="<%=ResolveUrl("~/plugins/pace/pace.min.css")%>" rel="stylesheet" />
+    <script src="<%=ResolveUrl("~/plugins/pace/pace.min.js")%>"></script>
+
+
+   
+      <link href="../../../Themes/assets/css/alertify.bootstrap.css" rel="stylesheet" />
+    <link href="../../../Themes/assets/css/alertify.core.css" rel="stylesheet" />
+    <link href="../../../Themes/assets/css/alertify.default.css" rel="stylesheet" />
+    <script src="../../../Themes/assets/js/alertify.js"></script>
+
+
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    
+</head>
+
+<%--style="background-image:url(<%=ResolveUrl("~/img/background/yarn.jpg")%>);background-repeat: no-repeat;"--%>
+<body >
+
+    <form id="form1" runat="server">
+
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+
+        <div id="container" class="effect mainnav-lg navbar-fixed mainnav-fixed">
+
+            <header id="navbar">
+                <div id="navbar-container" class="boxed">
+
+
+                    <div class="navbar-content clearfix">
+                        <ul class="nav navbar-top-links pull-left">
+
+                            <li class="tgl-menu-btn">
+                                <a class="mainnav-toggle" href="#"><i class="fa fa-navicon fa-lg"></i></a>
+                            </li>
+
+                        </ul>
+
+                        <ul class="nav navbar-top-links pull-right">
+
+                            <li class="hidden-xs" id="toggleFullscreen">
+                                <a class="fa fa-expand" data-toggle="fullscreen" href="#" role="button"></a>
+                            </li>
+
+                            <li id="dropdown-user" class="dropdown">
+                                <a href="#" data-toggle="dropdown" class="dropdown-toggle text-right">
+
+                                    <div class="username hidden-xs">
+                                        <asp:Label ID="lblLogin" runat="server" Text="" ForeColor="White" Font-Size="Large"></asp:Label>
+                                    </div>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-right with-arrow">
+
+                                    <ul class="head-list">
+
+                                        <li>
+                                            <asp:LinkButton ID="LinkButton1" runat="server" Width="40px" CausesValidation="False"
+                                                OnClick="LinkButton1_Click1" ForeColor="Red" Font-Bold="True">LOGOUT</asp:LinkButton>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                </div>
+            </header>
+
+            <div class="boxed">
+
+                <div id="content-container">
+
+                    <div class="pageheader hidden-xs">
+                        
+                        <h3>
+                           
+
+
+                            
+                            <asp:Image  CssClass="fabricc_animate" ID="imgHead" runat="server"  />
+                           <%-- <i class="fa fa-home"></i>--%>
+                            <asp:Label ID="lblModuleName" runat="server" Text=""></asp:Label>
+                        </h3>
+                        <div class="breadcrumb-wrapper">
+
+
+                            <span class="label">You are here:</span>
+                            <ol class="breadcrumb">
+                                <li><a href="#">
+                                    <asp:Label ID="lblModuleName1" runat="server" Text=""></asp:Label>
+                                </a></li>
+                                <li class="active">
+                                    <asp:Label ID="lblPageName" runat="server" Text=""></asp:Label>
+                                </li>
+
+
+                            </ol>
+                        </div>
+                    </div>
+
+
+                    <div id="page-content">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+
+                    </div>
+
+
+                    <nav id="mainnav-container">
+
+                        <div class="navbar-header">
+                            <a href="#" class="navbar-brand">
+                                <i class="fa fa-forumbee brand-icon"></i>
+                                <div class="brand-title">
+                                    <span class="brand-text">ERP</span>
+                                </div>
+                            </a>
+                        </div>
+
+                        <div id="mainnav">
+
+
+
+                            <div id="mainnav-menu-wrap">
+                                <div class="nano">
+                                    <div class="nano-content">
+                                        <ul id="mainnav-menu" class="list-group">
+
+                                            <li>
+                                                <a href="<%=ResolveUrl("~/Dashboard") %>">
+                                                    <%-- <i class="fa fa-cog fa-spin fa-2x"></i>--%>
+                                                    <img class="fabricc_animate" src="<%=ResolveUrl("~/img/background/dashboard25.ico") %>" />
+                                                    <span class="menu-title">DASHBOARD</span>
+
+                                                    <i class="arrow"></i>
+                                                </a>
+
+                                                
+
+
+                                            </li>
+
+                                            <li>
+                                                <a href="#">
+                                                    <%-- <i class="fa fa-cog fa-spin fa-2x"></i>--%>
+                                                    <img class="fabricc_animate" src="<%=ResolveUrl("~/img/background/setting25.ico") %>" />
+                                                    <span class="menu-title">SETTINGS</span>
+
+                                                    <i class="arrow"></i>
+                                                </a>
+
+                                                <asp:Literal ID="SettingsMenu" runat="server"></asp:Literal>
+
+
+                                            </li>
+                                            
+                                            <li>
+                                                
+                                                <a href="#">
+                                                    <%--<i class="fa fa-th"></i>--%>
+                                                    
+                                                    <img class="fabricc_animate" src="<%=ResolveUrl("~/img/background/education20.ico") %>" />
+                                                    <span class="menu-title">TEXTILE EDUCATION & HRD</span>
+
+
+                                                    <i class="arrow"></i>
+                                                </a>
+
+                                                <asp:Literal ID="ltlTextileEduHRD" runat="server"></asp:Literal>
+
+
+
+                                            </li>
+
+
+                                            
+                                              <li>
+                                                <a href="#">
+                                                     <img class="fabricc_animate" src="<%=ResolveUrl("~/img/background/yarn20.ico") %>" />
+                                                    <span class="menu-title">YARN ENTERPRISE</span>
+
+                                                    <i class="arrow"></i>
+                                                </a>
+
+
+                                                <asp:Literal ID="ltlYarnEnterprise" runat="server"></asp:Literal>
+
+                                            </li>
+
+
+
+                                            <li>
+                                                <a href="#">
+                                                     <img class="fabricc_animate" src="<%=ResolveUrl("~/img/background/fabric25.ico") %>" />
+                                                    <span class="menu-title">FABRIC ENTERPRISE</span>
+
+                                                    <i class="arrow"></i>
+                                                </a>
+
+
+                                                <asp:Literal ID="ltlFabricEnterPrise" runat="server"></asp:Literal>
+
+                                            </li>
+
+                                            
+
+
+                                            <li>
+                                                <a href="#">
+                                                    <img class="fabricc_animate" src="<%=ResolveUrl("~/img/background/cloth25.ico") %>" />
+                                                    <span class="menu-title">APPAREL ENTERPRISE</span>
+
+                                                    <i class="arrow"></i>
+                                                </a>
+
+
+                                                <asp:Literal ID="ltlApparelEnterprise" runat="server"></asp:Literal>
+
+                                            </li>
+
+
+
+                                            
+
+
+
+
+
+
+
+
+
+                                            <li>
+                                                <a href="#">
+                                                     <img class="fabricc_animate" src="<%=ResolveUrl("~/img/background/pm25.ico") %>" />
+                                                    <span class="menu-title">PROJECT MANAGEMENT</span>
+
+                                                    <i class="arrow"></i>
+                                                </a>
+
+
+                                                <asp:Literal ID="ltlProjectManagement" runat="server"></asp:Literal>
+
+                                            </li>
+
+
+                                          
+
+                                            <li>
+                                                <a href="#">
+                                                    <img class="fabricc_animate" src="<%=ResolveUrl("~/img/background/report25.ico") %>" />
+                                                    <span class="menu-title">REPORT ENGINE</span>
+
+                                                    <i class="arrow"></i>
+                                                </a>
+
+
+                                                <asp:Literal ID="ltlReport" runat="server"></asp:Literal>
+
+                                            </li>
+
+
+
+
+
+
+
+
+                                        </ul>
+
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                    </nav>
+
+
+                </div>
+
+
+
+
+
+            </div>
+
+
+
+            <footer id="footer">
+                <!-- Visible when footer positions are fixed -->
+                <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+                <div class="show-fixed pull-right">
+                </div>
+                <!-- Visible when footer positions are static -->
+                <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+                <div class="hide-fixed pull-right pad-rgt">Version 1.0.0</div>
+                <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+                <!-- Remove the class name "show-fixed" and "hide-fixed" to make the content always appears. -->
+                <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+                <p class="pad-lft">@Copyright 2019</p>
+            </footer>
+        </div>
+
+
+
+
+
+    </form>
+
+    <script src="<%=ResolveUrl("~/js/jquery-2.1.1.min.js") %>"></script>
+
+
+
+    <script src="<%=ResolveUrl("~/js/bootstrap.min.js") %>"></script>
+
+
+    <script src="<%=ResolveUrl("~/plugins/fast-click/fastclick.min.js") %>"></script>
+
+    <script src="<%=ResolveUrl("~/plugins/nanoscrollerjs/jquery.nanoscroller.min.js") %>"></script>
+    <!--Metismenu js [ REQUIRED ]-->
+    <script src="<%=ResolveUrl("~/plugins/metismenu/metismenu.min.js") %>"></script>
+    <!--Jasmine Admin [ RECOMMENDED ]-->
+    <script src="<%=ResolveUrl("~/js/scripts.js") %>"></script>
+    <!--Switchery [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/switchery/switchery.min.js") %>"></script>
+    <!--Jquery Steps [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/parsley/parsley.min.js") %>"></script>
+    <!--Jquery Steps [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/jquery-steps/jquery-steps.min.js") %>"></script>
+    <!--Bootstrap Select [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/bootstrap-select/bootstrap-select.min.js") %>"></script>
+    <!--Bootstrap Wizard [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/bootstrap-wizard/jquery.bootstrap.wizard.min.js") %>"></script>
+    <!--Masked Input [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/masked-input/bootstrap-inputmask.min.js") %>"></script>
+    <!--Bootstrap Validator [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/bootstrap-validator/bootstrapValidator.min.js") %>"></script>
+    <!--Flot Chart [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/flot-charts/jquery.flot.min.js") %>"></script>
+    <script src="<%=ResolveUrl("~/plugins/flot-charts/jquery.flot.resize.min.js") %>"></script>
+    <script src="<%=ResolveUrl("~/plugins/flot-charts/jquery.flot.spline.js") %>"></script>
+    <script src="<%=ResolveUrl("~/plugins/flot-charts/jquery.flot.pie.min.js") %>"></script>
+    <script src="<%=ResolveUrl("~/plugins/moment/moment.min.js") %>"></script>
+    <script src="<%=ResolveUrl("~/plugins/moment-range/moment-range.js") %>"></script>
+    <script src="<%=ResolveUrl("~/plugins/flot-charts/jquery.flot.tooltip.min.js") %>"></script>
+    <!--Flot Order Bars Chart [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/flot-charts/jquery.flot.categories.js") %>"></script>
+    <!--ricksaw.js [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/jquery-ricksaw-chart/js/raphael-min.js") %>"></script>
+    <script src="<%=ResolveUrl("~/plugins/jquery-ricksaw-chart/js/d3.v2.js") %>"></script>
+    <script src="<%=ResolveUrl("~/plugins/jquery-ricksaw-chart/js/rickshaw.min.js") %>"></script>
+    <script src="<%=ResolveUrl("~/plugins/jquery-ricksaw-chart/ricksaw.js") %>"></script>
+    <!--Summernote [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/summernote/summernote.min.js") %>"></script>
+    <!--Fullscreen jQuery [ OPTIONAL ]-->
+    <script src="<%=ResolveUrl("~/plugins/screenfull/screenfull.js") %>"></script>
+    <!--Form Wizard [ SAMPLE ]-->
+    <script src="<%=ResolveUrl("~/js/demo/wizard.js") %>"></script>
+    <!--Form Wizard [ SAMPLE ]-->
+    <script src="<%=ResolveUrl("~/js/demo/form-wizard.js") %>"></script>
+    <script src="<%=ResolveUrl("~/js/demo/dashboard-v2.js") %>"></script>
+
+   
+
+</body>
+
+
+
+
+
+</html>

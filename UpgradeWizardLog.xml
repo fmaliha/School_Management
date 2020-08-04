@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\InovexiaEBS.csproj" />
+  <event action="Analyze" type="Success" name="chienvh.language.resx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\App_GlobalResources\chienvh.language.resx" />
+  <event action="Analyze" type="Success" name="chienvh.language.vi-vn.resx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\App_GlobalResources\chienvh.language.vi-vn.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Bundle.config" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Bundle.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\InvexiaMaster.Master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\InvexiaMaster.Master" />
+  <event action="Analyze" type="Success" name="InvexiaMaster.Master" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\InvexiaMaster.Master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Login.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Login.aspx" />
+  <event action="Analyze" type="Success" name="Login.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Login.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\MainDashboard.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\MainDashboard.aspx" />
+  <event action="Analyze" type="Success" name="MainDashboard.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\MainDashboard.aspx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\packages.config" />
+  <event action="Analyze" type="Success" name="Binary References" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\plugins\nanoscrollerjs\bin\" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\ProjectManagementMaster.Master" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\ProjectManagementMaster.Master" />
+  <event action="Analyze" type="Success" name="ProjectManagementMaster.Master" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\ProjectManagementMaster.Master" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\AddExpenseCategoryUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\AddExpenseCategoryUI.aspx" />
+  <event action="Analyze" type="Success" name="AddExpenseCategoryUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\AddExpenseCategoryUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\AddFeeCategory.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\AddFeeCategory.aspx" />
+  <event action="Analyze" type="Success" name="AddFeeCategory.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\AddFeeCategory.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\AddNewSubject.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\AddNewSubject.aspx" />
+  <event action="Analyze" type="Success" name="AddNewSubject.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\AddNewSubject.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\BatchAssign.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\BatchAssign.aspx" />
+  <event action="Analyze" type="Success" name="BatchAssign.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\BatchAssign.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\BatchEditUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\BatchEditUI.aspx" />
+  <event action="Analyze" type="Success" name="BatchEditUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\BatchEditUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\BatchListUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\BatchListUI.aspx" />
+  <event action="Analyze" type="Success" name="BatchListUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\BatchListUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\ClassList.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\ClassList.aspx" />
+  <event action="Analyze" type="Success" name="ClassList.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\ClassList.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\CreateBatchUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\CreateBatchUI.aspx" />
+  <event action="Analyze" type="Success" name="CreateBatchUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\CreateBatchUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\CreateClassUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\CreateClassUI.aspx" />
+  <event action="Analyze" type="Success" name="CreateClassUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\CreateClassUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\ExpenseEntryUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\ExpenseEntryUI.aspx" />
+  <event action="Analyze" type="Success" name="ExpenseEntryUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\ExpenseEntryUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\FeesCollectionUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\FeesCollectionUI.aspx" />
+  <event action="Analyze" type="Success" name="FeesCollectionUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\FeesCollectionUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\Report\ReportExpenseUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\Report\ReportExpenseUI.aspx" />
+  <event action="Analyze" type="Success" name="ReportExpenseUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\Report\ReportExpenseUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\Report\ReportFeesReceived.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\Report\ReportFeesReceived.aspx" />
+  <event action="Analyze" type="Success" name="ReportFeesReceived.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\Report\ReportFeesReceived.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentListUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentListUI.aspx" />
+  <event action="Analyze" type="Success" name="StudentListUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentListUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentProfileUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentProfileUI.aspx" />
+  <event action="Analyze" type="Success" name="StudentProfileUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentProfileUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentRegistrationEditUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentRegistrationEditUI.aspx" />
+  <event action="Analyze" type="Success" name="StudentRegistrationEditUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentRegistrationEditUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentRegistrationUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentRegistrationUI.aspx" />
+  <event action="Analyze" type="Success" name="StudentRegistrationUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\StudentRegistrationUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\SubjectListUI.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\SubjectListUI.aspx" />
+  <event action="Analyze" type="Success" name="SubjectListUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\SubjectListUI.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\BlogPostType.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\BlogPostType.aspx" />
+  <event action="Analyze" type="Success" name="BlogPostType.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\BlogPostType.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\ComplianceType.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\ComplianceType.aspx" />
+  <event action="Analyze" type="Success" name="ComplianceType.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\ComplianceType.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\Entry\UserEntry.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\Entry\UserEntry.aspx" />
+  <event action="Analyze" type="Success" name="UserEntry.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\Entry\UserEntry.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\Entry\UserInfo.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\Entry\UserInfo.aspx" />
+  <event action="Analyze" type="Success" name="UserInfo.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\Entry\UserInfo.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\GovtAssistType.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\GovtAssistType.aspx" />
+  <event action="Analyze" type="Success" name="GovtAssistType.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\GovtAssistType.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\HRType.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\HRType.aspx" />
+  <event action="Analyze" type="Success" name="HRType.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\HRType.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\ImportItemType.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\ImportItemType.aspx" />
+  <event action="Analyze" type="Success" name="ImportItemType.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\ImportItemType.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\InstitutionProgramType.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\InstitutionProgramType.aspx" />
+  <event action="Analyze" type="Success" name="InstitutionProgramType.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\InstitutionProgramType.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\JobType.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\JobType.aspx" />
+  <event action="Analyze" type="Success" name="JobType.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\JobType.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\MachineType.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\MachineType.aspx" />
+  <event action="Analyze" type="Success" name="MachineType.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\MachineType.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\MenuPermission.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\MenuPermission.aspx" />
+  <event action="Analyze" type="Success" name="MenuPermission.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\MenuPermission.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\OrganizationType.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\OrganizationType.aspx" />
+  <event action="Analyze" type="Success" name="OrganizationType.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\OrganizationType.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\ProgramSpecialization.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\ProgramSpecialization.aspx" />
+  <event action="Analyze" type="Success" name="ProgramSpecialization.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\ProgramSpecialization.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\StakeholderType.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\StakeholderType.aspx" />
+  <event action="Analyze" type="Success" name="StakeholderType.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Settings\StakeholderType.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionDocumentMange.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionDocumentMange.aspx" />
+  <event action="Analyze" type="Success" name="InstitutionDocumentMange.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionDocumentMange.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionEngagedHr.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionEngagedHr.aspx" />
+  <event action="Analyze" type="Success" name="InstitutionEngagedHr.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionEngagedHr.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionEntry.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionEntry.aspx" />
+  <event action="Analyze" type="Success" name="InstitutionEntry.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionEntry.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionLabMapping.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionLabMapping.aspx" />
+  <event action="Analyze" type="Success" name="InstitutionLabMapping.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionLabMapping.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionMachineries.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionMachineries.aspx" />
+  <event action="Analyze" type="Success" name="InstitutionMachineries.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionMachineries.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionProgramEntry.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionProgramEntry.aspx" />
+  <event action="Analyze" type="Success" name="InstitutionProgramEntry.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionProgramEntry.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionPrograms.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionPrograms.aspx" />
+  <event action="Analyze" type="Success" name="InstitutionPrograms.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionPrograms.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionProgramSyllabus.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionProgramSyllabus.aspx" />
+  <event action="Analyze" type="Success" name="InstitutionProgramSyllabus.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionProgramSyllabus.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionRequiredHr.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionRequiredHr.aspx" />
+  <event action="Analyze" type="Success" name="InstitutionRequiredHr.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\InstitutionRequiredHr.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\ProgramWiseStudent.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\ProgramWiseStudent.aspx" />
+  <event action="Analyze" type="Success" name="ProgramWiseStudent.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\TextileEducation\ProgramWiseStudent.aspx" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\ViewSwitcher.ascx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\ViewSwitcher.ascx" />
+  <event action="Analyze" type="Success" name="ViewSwitcher.ascx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\ViewSwitcher.ascx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\WebForm1.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\WebForm1.aspx" />
+  <event action="Analyze" type="Success" name="WebForm1.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\WebForm1.aspx" />
+  <event action="Analyze" type="Success" name="InovexiaEBS" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\InovexiaEBS.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\SchoolManagementReport.csproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\app.config" />
+  <event action="Analyze" type="Success" name="RptExpense.resx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\FeesReport\RptExpense.resx" />
+  <event action="Analyze" type="Success" name="rptFinalStatusAfterHandover.resx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\FeesReport\rptFinalStatusAfterHandover.resx" />
+  <event action="Analyze" type="Success" name="RptStudentFeesReceived.resx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\FeesReport\RptStudentFeesReceived.resx" />
+  <event action="Analyze" type="Success" name="SchoolManagementReport" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\SchoolManagementReport.csproj" />
+  <event action="Analyze" type="Success" name="TERPV101" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\TERPV101.sln" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\InovexiaEBS.csproj" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\Report\ReportExpenseUI.aspx" />
+  <event action="Upgrade" type="Success" name="ReportExpenseUI.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\Report\ReportExpenseUI.aspx" />
+  <event action="Upgrade" type="Success" name="Register Directives" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\Report\ReportFeesReceived.aspx" />
+  <event action="Upgrade" type="Success" name="ReportFeesReceived.aspx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\SchoolManagement\Report\ReportFeesReceived.aspx" />
+  <event action="Upgrade" type="Success" name="Http Handlers" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.config" />
+  <event action="Upgrade" type="Success" name="Handlers (IIS7+)" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.config" />
+  <event action="Upgrade" type="Success" name="Web.config" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\Web.config" />
+  <event action="Upgrade" type="Success" name="InovexiaEBS" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\InovexiaEBS\InovexiaEBS.csproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\SchoolManagementReport.csproj" />
+  <event action="Upgrade" type="Success" name="RptExpense.resx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\FeesReport\RptExpense.resx" />
+  <event action="Upgrade" type="Success" name="rptFinalStatusAfterHandover.resx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\FeesReport\rptFinalStatusAfterHandover.resx" />
+  <event action="Upgrade" type="Success" name="RptStudentFeesReceived.resx" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\FeesReport\RptStudentFeesReceived.resx" />
+  <event action="Upgrade" type="Success" name="SchoolManagementReport" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\SchoolManagementReport\SchoolManagementReport.csproj" />
+  <event action="Upgrade" type="Success" name="TERPV101" path="C:\Users\Anika\Documents\Visual Studio 2013\Projects\SchoolManagement\MOJT_ERP\TERPV101.sln" />
+</log>

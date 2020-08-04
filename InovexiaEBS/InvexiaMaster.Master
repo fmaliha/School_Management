@@ -1,0 +1,237 @@
+﻿ <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="InvexiaMaster.master.cs" Inherits="InovexiaEBS.InvexiaMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+   
+    <title>St.Peter`s School of London</title>
+
+    
+    <asp:PlaceHolder ID="headPlaceHolder" runat="server">
+      
+
+
+        <link rel="stylesheet" href="<%=ResolveUrl("css/bootstrap.min.css")%>" />
+        <link rel="stylesheet" href="<%=ResolveUrl("fonts/icomoon/icomoon.css")%>" />
+        <link rel="stylesheet" href="<%=ResolveUrl("css/main.css")%>" />
+ 
+         <link rel="shortcut icon" href="<%=ResolveUrl("img/favicon.ico")%>" />
+
+
+
+
+
+        <script src="<%=ResolveUrl("js/jquery.js")%>"></script>
+        <script src="<%=ResolveUrl("js/tether.min.js")%>"></script>
+        <script src="<%=ResolveUrl("js/bootstrap.min.js")%>"></script>
+        <script src="<%=ResolveUrl("vendor/unifyMenu/unifyMenu.js")%>"></script>
+        <script src="<%=ResolveUrl("vendor/onoffcanvas/onoffcanvas.js")%>"></script>
+        <script src="<%=ResolveUrl("js/moment.js")%>"></script>
+     
+        <script src="<%=ResolveUrl("vendor/slimscroll/slimscroll.min.js")%>"></script>
+        <script src="<%=ResolveUrl("vendor/slimscroll/custom-scrollbar.js")%>"></script>
+       
+        <script src="<%=ResolveUrl("js/common.js")%>"></script>
+
+
+    </asp:PlaceHolder>
+
+</head>
+<body>
+     <form runat="server" idd="frmMain">
+
+     <asp:ScriptManager ID="scrManager1" runat="server"></asp:ScriptManager>
+    
+    <!-- Loading starts -->
+    <div class="loading-wrapper">
+        <div class="loading">
+            <div class="img"></div>
+            <span></span>
+            <span></span>
+            <span></span>
+           <%-- <span></span>--%>
+            
+        </div>
+    </div>
+    <!-- Loading ends -->
+
+    <!-- BEGIN .app-wrap -->
+    <div class="app-wrap">
+        <!-- BEGIN .app-heading -->
+        <header class="app-header">
+            <div class="container-fluid">
+                <div class="row gutters">
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-3 col-4">
+                        <a class="mini-nav-btn" href="#" id="app-side-mini-toggler">
+                            <i class="icon-menu5"></i>
+                        </a>
+                        <a href="#app-side" data-toggle="onoffcanvas" class="onoffcanvas-toggler" aria-expanded="true">
+                            <i class="icon-chevron-thin-left"></i>
+                        </a>
+                    </div>
+                    <div class="col-xl-2 col-lg-2 col-md-2 col-sm-6 col-4">
+                        <a href="MainDashboard.aspx" target="_blank" class="logo">
+                            <img src="<%=ResolveUrl("img/logo.png")%> " alt="St. Peter's of London" />
+                        </a>
+                    </div>
+                    <div class="col-xl-5 col-lg-5 col-md-5 col-sm-3 col-4">
+                        <ul class="header-actions">
+                            
+                            <li class="dropdown">
+                                <a href="#" id="userSettings" class="user-settings" data-toggle="dropdown" aria-haspopup="true">
+                                    <img class="avatar" src="<%=ResolveUrl("img/user.png")%>" alt="User Thumb" />
+                                    
+                                    <asp:Label ID="lblUser" runat="server" CssClass="user-name"></asp:Label>
+                                    <i class="icon-chevron-small-down"></i>
+                                </a>
+                                <div class="dropdown-menu lg dropdown-menu-right" aria-labelledby="userSettings">
+                                    <ul class="user-settings-list">
+                                        <li>
+                                            <a href="profile.html">
+                                                <div class="icon">
+                                                    <i class="icon-account_circle"></i>
+                                                </div>
+                                                <p>Profile</p>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="<%=ResolveUrl("~/UI/Setting/PasswordChange.aspx") %>">
+                                                <div class="icon red">
+                                                    <i class="icon-unlocked"></i>
+                                                </div>
+                                                <p>Change Password</p>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="filters.html">
+                                                <div class="icon yellow">
+                                                    <i class="icon-schedule"></i>
+                                                </div>
+                                                <p>Daily Activity</p>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                    <div class="logout-btn">
+                                        <%--<a href="<%=ResolveUrl("~/LogOut.aspx") %>" class="btn btn-primary">Logout</a>--%>
+                                        <asp:Button ID="btnLogout" CssClass="btn btn-primary" runat="server" BorderStyle="None" Height="50%" 
+                                                                             Text="Logout" OnClick="LinkButton1_Click"></asp:Button>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- END: .app-heading -->
+        <!-- BEGIN .app-container -->
+        <div class="app-container">
+            <!-- BEGIN .app-side -->
+            <aside class="app-side" id="app-side">
+                <!-- BEGIN .side-content -->
+                <div class="side-content ">
+                
+                    <nav class="side-nav">
+                        <!-- BEGIN: side-nav-content -->
+                        <ul class="unifyMenu" id="unifyMenu">
+                       
+                                             
+                            <asp:Literal ID="ContentMenuLiteral" runat="server"></asp:Literal>
+
+<%--                            ////////////////////////////////--%>
+                            
+                           
+
+          
+
+
+
+
+                           
+                            
+                           
+                          
+                           
+                            
+                            
+                         
+                           
+                            
+                        </ul>
+                        <!-- END: side-nav-content -->
+                    </nav>
+                    <!-- END: .side-nav -->
+                </div>
+                <!-- END: .side-content -->
+            </aside>
+            <!-- END: .app-side -->
+
+            <!-- BEGIN .app-main -->
+            <div class="app-main">
+
+                					<!-- BEGIN .main-heading -->
+					<header class="main-heading">
+						<div class="container-fluid">
+							<div class="row">
+								<div class="col-xl-8 col-lg-8 col-md-8 col-sm-8">
+									<div class="page-icon">
+										<i class="icon-center_focus_strong"></i>
+									</div>
+									<div class="page-title">
+										<h5> <asp:Literal ID="ltlPageName" runat="server"></asp:Literal></h5>
+										<%--<h6 class="sub-heading">Welcome to Unify Admin Template</h6>--%>
+									</div>
+								</div>
+								<div class="col-xl-4 col-lg-4 col-md-4 col-sm-4">
+									<div class="right-actions">
+										<span class="last-login">Last Login: 2 hours ago</span>
+									</div>
+								</div>
+							</div>
+						</div>
+					</header>
+					<!-- END: .main-heading -->
+                 
+              <div class="main-content">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    <!-- BEGIN .main-content -->
+                    
+
+
+                   
+                    <!-- END: .main-content -->
+                </asp:ContentPlaceHolder>
+                  </div>
+
+            </div>
+            <!-- END: .app-main -->
+
+        </div>
+        <!-- END: .app-container -->
+        <!-- BEGIN .main-footer -->
+        <footer class="main-footer fixed-btm">
+            Copyright Amber Software Solutions Ltd. 2019.
+		
+        </footer>
+        <!-- END: .main-footer -->
+    </div>
+    <!-- END: .app-wrap -->
+
+
+
+    </form>
+
+      
+
+
+
+
+
+</body>
+</html>

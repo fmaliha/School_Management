@@ -1,0 +1,533 @@
+﻿.myButton {
+    -moz-box-shadow: inset 0px 39px 0px -24px #00a7c5;
+    -webkit-box-shadow: inset 0px 39px 0px -24px #00a7c5;
+    box-shadow: inset 0px 39px 0px -24px #00a7c5;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #00a7c5), color-stop(1, #00a7c5));
+    background: -moz-linear-gradient(top, #00a7c5 5%, #00a7c5 100%);
+    background: -webkit-linear-gradient(top, #00a7c5 5%, #00a7c5 100%);
+    background: -o-linear-gradient(top, #00a7c5 5%, #00a7c5 100%);
+    background: -ms-linear-gradient(top, #00a7c5 5%, #00a7c5 100%);
+    background: linear-gradient(to bottom, #00a7c5 5%, #00a7c5 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00a7c5', endColorstr='#00a7c5',GradientType=0);
+    background-color: #00a7c5;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 2px 18px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #00a7c5;
+}
+
+    .myButton:hover {
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #00a7c5), color-stop(1, #00a7c5));
+        background: -moz-linear-gradient(top, #00a7c5 5%, #00a7c5 100%);
+        background: -webkit-linear-gradient(top, #00a7c5 5%, #00a7c5 100%);
+        background: -o-linear-gradient(top, #00a7c5 5%, #00a7c5 100%);
+        background: -ms-linear-gradient(top, #00a7c5 5%, #00a7c5 100%);
+        background: linear-gradient(to bottom, #00a7c5 5%, #00a7c5 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00a7c5', endColorstr='#00a7c5',GradientType=0);
+        background-color: #00a7c5;
+    }
+
+    .myButton:active {
+        position: relative;
+        top: 1px;
+    }
+
+
+.clsButton {
+    -moz-box-shadow: inset 0px 39px 0px -24px #e67a73;
+    -webkit-box-shadow: inset 0px 39px 0px -24px #e67a73;
+    box-shadow: inset 0px 39px 0px -24px #e67a73;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #e4685d), color-stop(1, #eb675e));
+    background: -moz-linear-gradient(top, #e4685d 5%, #eb675e 100%);
+    background: -webkit-linear-gradient(top, #e4685d 5%, #eb675e 100%);
+    background: -o-linear-gradient(top, #e4685d 5%, #eb675e 100%);
+    background: -ms-linear-gradient(top, #e4685d 5%, #eb675e 100%);
+    background: linear-gradient(to bottom, #e4685d 5%, #eb675e 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e4685d', endColorstr='#eb675e',GradientType=0);
+    background-color: #e4685d;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 2px 18px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #b23e35;
+}
+
+    .clsButton:hover {
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #eb675e), color-stop(1, #e4685d));
+        background: -moz-linear-gradient(top, #eb675e 5%, #e4685d 100%);
+        background: -webkit-linear-gradient(top, #eb675e 5%, #e4685d 100%);
+        background: -o-linear-gradient(top, #eb675e 5%, #e4685d 100%);
+        background: -ms-linear-gradient(top, #eb675e 5%, #e4685d 100%);
+        background: linear-gradient(to bottom, #eb675e 5%, #e4685d 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#eb675e', endColorstr='#e4685d',GradientType=0);
+        background-color: #eb675e;
+    }
+
+    .clsButton:active {
+        position: relative;
+        top: 1px;
+    }
+
+
+.TextBoxx {
+    border: 3.5px solid rgba(255,255,255,0.5);
+    -webkit-box-shadow: inset 0 0 8px rgba(0,0,0,0.1), 0 0 16px rgba(0,0,0,0.1);
+    -moz-box-shadow: inset 0 0 8px rgba(0,0,0,0.1), 0 0 16px rgba(0,0,0,0.1);
+    box-shadow: inset 0 0 8px rgba(0,0,0,0.1), 0 0 16px rgba(0,0,0,0.1);
+    padding: 4px;
+    background: rgba(255,255,255,0.5);
+    margin: 0 0 6px 0;
+}
+
+
+
+
+
+.addButton {
+    -moz-box-shadow: inset 0px 1px 0px 0px #9acc85;
+    -webkit-box-shadow: inset 0px 1px 0px 0px #9acc85;
+    box-shadow: inset 0px 1px 0px 0px #9acc85;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #74ad5a), color-stop(1, #68a54b));
+    background: -moz-linear-gradient(top, #74ad5a 5%, #68a54b 100%);
+    background: -webkit-linear-gradient(top, #74ad5a 5%, #68a54b 100%);
+    background: -o-linear-gradient(top, #74ad5a 5%, #68a54b 100%);
+    background: -ms-linear-gradient(top, #74ad5a 5%, #68a54b 100%);
+    background: linear-gradient(to bottom, #74ad5a 5%, #68a54b 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#74ad5a', endColorstr='#68a54b',GradientType=0);
+    background-color: #74ad5a;
+    border: 1px solid #3b6e22;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 2px 5px;
+    text-decoration: none;
+}
+
+    .addButton:hover {
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #68a54b), color-stop(1, #74ad5a));
+        background: -moz-linear-gradient(top, #68a54b 5%, #74ad5a 100%);
+        background: -webkit-linear-gradient(top, #68a54b 5%, #74ad5a 100%);
+        background: -o-linear-gradient(top, #68a54b 5%, #74ad5a 100%);
+        background: -ms-linear-gradient(top, #68a54b 5%, #74ad5a 100%);
+        background: linear-gradient(to bottom, #68a54b 5%, #74ad5a 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#68a54b', endColorstr='#74ad5a',GradientType=0);
+        background-color: #68a54b;
+    }
+
+    .addButton:active {
+        position: relative;
+        top: 1px;
+    }
+
+
+
+
+
+
+
+
+.dltButton {
+    background: url("../images/erase.ico") no-repeat;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+}
+
+.edtButton {
+    background: url("../images/edit.ico") no-repeat;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+}
+
+.vwButton {
+    background: url('../images/eye.ico') no-repeat;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+}
+
+.DwnButton {
+    background: url('../images/down.ico') no-repeat;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+}
+
+.ApproveButton {
+    background: url('../images/save.ico') no-repeat;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+}
+
+
+
+
+
+.vwButton {
+    background: url('../images/eye.ico') no-repeat;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+}
+
+
+.ActButton {
+    background: url("../images/savegray.ico") no-repeat;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+}
+
+.DeActButton {
+    background: url("../images/stopgray.ico") no-repeat;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+}
+
+
+.ActButtonDisable {
+    background: url("../images/save.ico") no-repeat;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+           pointer-events: none;
+       cursor: default;
+}
+
+.DeActButtonDisable {
+    background: url("../images/stop.ico") no-repeat;
+    float: left;
+    width: 16px;
+    height: 16px;
+    margin-top: 4px;
+           pointer-events: none;
+       cursor: default;
+}
+
+
+
+
+
+
+.tdWidth100 {
+    width: 190px;
+}
+.tdWidth250 {
+    width: 250px;
+}
+.tdWidth240 {
+    width: 240px;
+}
+
+.tdWidth80 {
+    width: 80px;
+}
+.tdWidth110 {
+    width: 110px;
+}
+
+.tdWidth300 {
+    width: 550px;
+}
+
+.txtClass {
+    height: 25px;
+    width: 120px;
+}
+
+.txtClass100 {
+    height: 25px;
+    width: 100px;
+}
+
+.fncytxtClass {
+    height: 25px;
+    width: 200px;
+}
+
+.redTextBox {
+    height: 25px;
+    width: 120px;
+    color: red;
+}
+
+.txtBox70 {
+    height: 25px;
+    width: 90px;
+}
+
+.redTextBox80 {
+    height: 25px;
+    width: 80px;
+    color: red;
+}
+
+
+.dtpBox100 {    
+    width: 100px;
+}
+
+
+
+.page-header {
+    padding-bottom: 5px;
+    margin: 0px 0 10px;
+    border-bottom: 1px solid #eee;
+    font-weight: bold;
+}
+
+fieldset1 {
+    /*font-family: sans-serif;
+    border: 1px solid grey;
+    background: white;*/
+}
+
+    fieldset1 legend1 {
+        color: #0AA2BB;
+        padding: 3px 5px;
+        font-size: 1em;
+        border-radius: 5px;
+        box-shadow: 0 0 01px grey;
+        margin-left: 10px;
+        /*width: 25%;*/
+        font-weight: bold;
+    }
+
+
+
+.leftGridDiv {
+    width: 50%;
+    float: left;
+}
+
+.rightGridDiv {
+    width: 50%;
+    float: right;
+    height: 230px;
+    overflow-y: scroll;
+}
+
+.rightGridDiv70 {
+    width: 70%;
+    float: right;
+}
+
+.leftGridDiv30 {
+    width: 30%;
+    float: left;
+    padding-left: 50px
+}
+
+
+
+
+
+
+
+
+.myCustomTbl {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    border: 1px solid #000000;
+    -moz-border-radius-bottomleft: 0px;
+    -webkit-border-bottom-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    -moz-border-radius-bottomright: 0px;
+    -webkit-border-bottom-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    -moz-border-radius-topright: 0px;
+    -webkit-border-top-right-radius: 0px;
+    border-top-right-radius: 0px;
+    -moz-border-radius-topleft: 0px;
+    -webkit-border-top-left-radius: 0px;
+    border-top-left-radius: 0px;
+}
+
+    .myCustomTbl table {
+        border-collapse: collapse;
+        border-spacing: 0;
+        width: 100%;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .myCustomTbl tr:last-child td:last-child {
+        -moz-border-radius-bottomright: 0px;
+        -webkit-border-bottom-right-radius: 0px;
+        border-bottom-right-radius: 0px;
+    }
+
+    .myCustomTbl table tr:first-child td:first-child {
+        -moz-border-radius-topleft: 0px;
+        -webkit-border-top-left-radius: 0px;
+        border-top-left-radius: 0px;
+    }
+
+    .myCustomTbl table tr:first-child td:last-child {
+        -moz-border-radius-topright: 0px;
+        -webkit-border-top-right-radius: 0px;
+        border-top-right-radius: 0px;
+    }
+
+    .myCustomTbl tr:last-child td:first-child {
+        -moz-border-radius-bottomleft: 0px;
+        -webkit-border-bottom-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+    }
+
+    .myCustomTbl tr:hover td {
+    }
+
+    .myCustomTbl tr:nth-child(odd) {
+        background-color: #ffffff;
+    }
+
+    .myCustomTbl tr:nth-child(even) {
+        background-color: #cccccc;
+    }
+
+    .myCustomTbl td {
+        vertical-align: middle;
+        border: 1px solid #000000;
+        border-width: 0px 1px 1px 0px;
+        text-align: left;
+        padding: 5px;
+        font-size: 10px;
+        font-family: Arial;
+        font-weight: normal;
+        color: #000000;
+    }
+
+    .myCustomTbl tr:last-child td {
+        border-width: 0px 1px 0px 0px;
+    }
+
+    .myCustomTbl tr td:last-child {
+        border-width: 0px 0px 1px 0px;
+    }
+
+    .myCustomTbl tr:last-child td:last-child {
+        border-width: 0px 0px 0px 0px;
+    }
+
+    .myCustomTbl tr:first-child td {
+        background: -o-linear-gradient(bottom, #00a9c5 5%, #3578ba 100%);
+        background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #00a9c5), color-stop(1, #3578ba) );
+        background: -moz-linear-gradient( center top, #00a9c5 5%, #3578ba 100% );
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00a9c5", endColorstr="#3578ba");
+        background: -o-linear-gradient(top,#00a9c5,3578ba);
+        background-color: #00a9c5;
+        border: 0px solid #000000;
+        text-align: center;
+        border-width: 0px 0px 1px 1px;
+        font-size: 11px;
+        font-family: Arial;
+        font-weight: bold;
+        color: #ffffff;
+    }
+
+    .myCustomTbl tr:first-child:hover td {
+        background: -o-linear-gradient(bottom, #00a9c5 5%, #3578ba 100%);
+        background: -webkit-gradient( linear, left top, left bottom, color-stop(0.05, #00a9c5), color-stop(1, #3578ba) );
+        background: -moz-linear-gradient( center top, #00a9c5 5%, #3578ba 100% );
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00a9c5", endColorstr="#3578ba");
+        background: -o-linear-gradient(top,#00a9c5,3578ba);
+        background-color: #00a9c5;
+    }
+
+    .myCustomTbl tr:first-child td:first-child {
+        border-width: 0px 0px 1px 0px;
+    }
+
+    .myCustomTbl tr:first-child td:last-child {
+        border-width: 0px 0px 1px 1px;
+    }
+
+
+.TidyTable tr td {
+    padding-top:0px !important;
+    padding-bottom:0px !important;
+}
+.dvMarquee {
+    width: 500px;
+    float: left;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #b23e35;
+    text-shadow: 2px 2px #cccccc;
+}
+
+
+.myButtonGreen {
+    -moz-box-shadow: inset 0px 39px 0px -24px #11772D;
+    -webkit-box-shadow: inset 0px 39px 0px -24px #11772D;
+    box-shadow: inset 0px 39px 0px -24px #11772D;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #11772D), color-stop(1, #11772D));
+    background: -moz-linear-gradient(top, #11772D 5%, #11772D 100%);
+    background: -webkit-linear-gradient(top, #11772D 5%, #11772D 100%);
+    background: -o-linear-gradient(top, #11772D 5%, #11772D 100%);
+    background: -ms-linear-gradient(top, #11772D 5%, #11772D 100%);
+    background: linear-gradient(to bottom, #11772D 5%, #11772D 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#11772D', endColorstr='#11772D',GradientType=0);
+    background-color: #11772D;
+    -moz-border-radius: 7px;
+    -webkit-border-radius: 7px;
+    border-radius: 7px;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: arial;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 2px 18px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #11772D;
+}
+
+.myButtonGreen:hover {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #11772D), color-stop(1, #11772D));
+    background: -moz-linear-gradient(top, #11772D 5%, #11772D 100%);
+    background: -webkit-linear-gradient(top, #11772D 5%, #11772D 100%);
+    background: -o-linear-gradient(top, #11772D 5%, #11772D 100%);
+    background: -ms-linear-gradient(top, #11772D 5%, #11772D 100%);
+    background: linear-gradient(to bottom, #11772D 5%, #11772D 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#11772D', endColorstr='#11772D',GradientType=0);
+    background-color: #11772D;
+}
+
+.myButtonGreen:active {
+    position: relative;
+    top: 1px;
+}
